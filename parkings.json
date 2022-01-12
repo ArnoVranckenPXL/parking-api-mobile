@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Blauwe Boulevard",
+        "parkingSpaces": "1685",
+        "freeSpaces": "1549",
+        "address": "Slachthuiskaai , 3500 Hasselt",
+        "paid": true,
+        "type": "underground"
+    },
+    {
+        "name": "Dusart",
+        "parkingSpaces": "810",
+        "freeSpaces": "499",
+        "address": "Koning Boudewijnlaan, 3500 Hasselt",
+        "paid": true,
+        "type": "underground"
+    },
+    {
+        "name": "Luikerpoort",
+        "parkingSpaces": "250",
+        "freeSpaces": "80",
+        "address": "Welvaartstraat, 3500 Hasselt",
+        "paid": true,
+        "type": "underground"
+    },
+    {
+        "name": "Molenpoort",
+        "parkingSpaces": "400",
+        "freeSpaces": "277",
+        "address": "Kattegatstraat, 3500 Hasselt",
+        "paid": true,
+        "type": "underground"
+    },
+    {
+        "name": "Station",
+        "parkingSpaces": "350",
+        "freeSpaces": "273",
+        "address": "Grote Breemstraat, 3500 Hasselt",
+        "paid": true,
+        "type": "underground"
+    }
+]
